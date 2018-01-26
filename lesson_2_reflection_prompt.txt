@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+Create a .git folder to track all changes. Before doing this no tracking is done.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a intermediate area since want to have perhaps a single set of 1 or more files involved in a single
+logic change. Once these files are identified then we can commit the whole set of files as a single commit.
+
