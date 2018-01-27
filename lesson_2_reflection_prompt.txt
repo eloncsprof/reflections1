@@ -5,3 +5,17 @@ How is the staging area different from the working directory and the repository?
 Staging area is a intermediate area since want to have perhaps a single set of 1 or more files involved in a single
 logic change. Once these files are identified then we can commit the whole set of files as a single commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+You can check working area against staging area with git diff. This will show changes to staging area that should only 
+contain one change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Perhaps you are working on a new feature and do not want to include until completed.
+
+How do the diagrams help you visualize the branch structure?
+Allows you to see reachability paths
+
+
+
+
+
