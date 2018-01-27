@@ -18,6 +18,8 @@ Allows you to see reachability paths
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 combines the changes from both branches and make the label the one that was the current branch before the git merge.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros is saving of time if similar code being modified is detected. 
 
 
 
