@@ -15,6 +15,9 @@ Perhaps you are working on a new feature and do not want to include until comple
 How do the diagrams help you visualize the branch structure?
 Allows you to see reachability paths
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+combines the changes from both branches and make the label the one that was the current branch before the git merge.
+
 
 
 
