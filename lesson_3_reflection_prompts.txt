@@ -9,3 +9,5 @@ Fork allows me to make a copy of someone else repository on github to my  github
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Easy to tell if the current local state status with respect to last known remote state.
+
+Dave finished by checking out use of tag
